@@ -1,2 +1,1 @@
-# nginx-custom
-Custom nginx project
+# ACR example (build, push image from github to ACR)
